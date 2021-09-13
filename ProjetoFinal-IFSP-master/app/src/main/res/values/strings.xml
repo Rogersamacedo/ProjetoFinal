@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ProjetoFinalMateus</string>
+    <string name="textview">TextView</string>
+    <string name="cadastrar">Cadastrar Pessoa Física</string>
+    <string name="desenvolvido">Desenvolvido por Mateus Macedo - v1.0</string>
+    <string name="dadosPessoaFisica">Dados Pessoa Física</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="idade">Idade</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="inserir">Cadastrar</string>
+    <string name="listar">Listar Cadastros</string>
+    <string name="voltar">Voltar</string>
+    <string name="nome_obrigatorio">Nome é de preenchimento obrigatório!</string>
+    <string name="cpf_obrigatorio">CPF é de preenchimento obrigatório!</string>
+    <string name="idade_obrigatorio">Idade é de preenchimento obrigatório!</string>
+    <string name="telefone_obrigatorio">Telefone é de preenchimento obrigatório!</string>
+    <string name="email_obrigatorio">Email é de preenchimento obrigatório!</string>
+    <string name="registro_salvo_sucesso">Registro salvo com sucesso!</string>
+    <string name="codigoPessoa">Código</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar">Editar</string>
+    <string name="listavazia">Não contém nenhum registro no banco de dados</string>
+    <string name="alterar">Alterar Dados</string>
+    <string name="email_invalido">Email inválido</string>
+    <string name="phone_invalido">Telefone inválido</string>
+    <string name="cpf_invalido">CPF é inválido</string>
+
+</resources>
